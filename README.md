@@ -7,7 +7,7 @@ GEELY AUTO wants to understand the factors on which the pricing of cars depends.
 The company aims to understand : ●	Which variables are significant in predicting the price of a car
                                  ●	How well do those variables describe the price of a car
 
-#PROJECT OBJECTIVES
+# PROJECT OBJECTIVES
 1. Model the price of cars with the available independent variables(i.e car price determinants)
           The management will use it to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars,             the business strategy etc. to meet certain price levels.
 2. The model will be a good way for management to understand the pricing dynamics of a new market.
