@@ -1,5 +1,6 @@
 # CAR PRICE PREDICTION MODEL + ANALYSIS 
 (A Machine learning regression model project 3 )
+! [alt text](https://drive.google.com/file/d/1CY0D4B2q4geE9R_IU0ya9B8dpYyH1xMf/view?usp=sharing)
 
 # PROBLEM STATEMENT
 A Chinese automobile company Geely Auto aspires to enter the Nigerian market by setting up its manufacturing unit and producing cars locally to compete with their Nigerian, US and European counterparts.
